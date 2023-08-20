@@ -1,0 +1,15 @@
+C:\Users\blalo\Desktop\C#Files\Task024\bin\Debug\net7.0\Task024.exe
+C:\Users\blalo\Desktop\C#Files\Task024\bin\Debug\net7.0\Task024.deps.json
+C:\Users\blalo\Desktop\C#Files\Task024\bin\Debug\net7.0\Task024.runtimeconfig.json
+C:\Users\blalo\Desktop\C#Files\Task024\bin\Debug\net7.0\Task024.dll
+C:\Users\blalo\Desktop\C#Files\Task024\bin\Debug\net7.0\Task024.pdb
+C:\Users\blalo\Desktop\C#Files\Task024\obj\Debug\net7.0\Task024.csproj.AssemblyReference.cache
+C:\Users\blalo\Desktop\C#Files\Task024\obj\Debug\net7.0\Task024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blalo\Desktop\C#Files\Task024\obj\Debug\net7.0\Task024.AssemblyInfoInputs.cache
+C:\Users\blalo\Desktop\C#Files\Task024\obj\Debug\net7.0\Task024.AssemblyInfo.cs
+C:\Users\blalo\Desktop\C#Files\Task024\obj\Debug\net7.0\Task024.csproj.CoreCompileInputs.cache
+C:\Users\blalo\Desktop\C#Files\Task024\obj\Debug\net7.0\Task024.dll
+C:\Users\blalo\Desktop\C#Files\Task024\obj\Debug\net7.0\refint\Task024.dll
+C:\Users\blalo\Desktop\C#Files\Task024\obj\Debug\net7.0\Task024.pdb
+C:\Users\blalo\Desktop\C#Files\Task024\obj\Debug\net7.0\Task024.genruntimeconfig.cache
+C:\Users\blalo\Desktop\C#Files\Task024\obj\Debug\net7.0\ref\Task024.dll
