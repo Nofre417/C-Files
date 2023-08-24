@@ -51,7 +51,7 @@ int ToFindSumOfArray(int[,] array)
     {
         for (int j = 0; j < rows; j++)
         {
-            if(i == j) sum+= array[i, j];
+            if (i == j) sum += array[i, j];
         }
     }
     return sum;
