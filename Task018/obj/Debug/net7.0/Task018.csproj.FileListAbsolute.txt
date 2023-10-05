@@ -1,0 +1,15 @@
+C:\Users\blalo\Desktop\C#Files\Task018\obj\Debug\net7.0\Task018.csproj.AssemblyReference.cache
+C:\Users\blalo\Desktop\C#Files\Task018\obj\Debug\net7.0\Task018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blalo\Desktop\C#Files\Task018\obj\Debug\net7.0\Task018.AssemblyInfoInputs.cache
+C:\Users\blalo\Desktop\C#Files\Task018\obj\Debug\net7.0\Task018.AssemblyInfo.cs
+C:\Users\blalo\Desktop\C#Files\Task018\obj\Debug\net7.0\Task018.csproj.CoreCompileInputs.cache
+C:\Users\blalo\Desktop\C#Files\Task018\bin\Debug\net7.0\Task018.exe
+C:\Users\blalo\Desktop\C#Files\Task018\bin\Debug\net7.0\Task018.deps.json
+C:\Users\blalo\Desktop\C#Files\Task018\bin\Debug\net7.0\Task018.runtimeconfig.json
+C:\Users\blalo\Desktop\C#Files\Task018\bin\Debug\net7.0\Task018.dll
+C:\Users\blalo\Desktop\C#Files\Task018\bin\Debug\net7.0\Task018.pdb
+C:\Users\blalo\Desktop\C#Files\Task018\obj\Debug\net7.0\Task018.dll
+C:\Users\blalo\Desktop\C#Files\Task018\obj\Debug\net7.0\refint\Task018.dll
+C:\Users\blalo\Desktop\C#Files\Task018\obj\Debug\net7.0\Task018.pdb
+C:\Users\blalo\Desktop\C#Files\Task018\obj\Debug\net7.0\Task018.genruntimeconfig.cache
+C:\Users\blalo\Desktop\C#Files\Task018\obj\Debug\net7.0\ref\Task018.dll
