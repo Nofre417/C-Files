@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Task012
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\blalo\Desktop\C#Files\Task012\
+=======
+build_property.ProjectDir = C:\Users\blalo\Desktop\C#Files\Task012\
+>>>>>>> 40fd661f659e87653741f1afe92d20370bd145e1

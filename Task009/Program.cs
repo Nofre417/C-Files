@@ -1,7 +1,10 @@
 ﻿using System;
 
+<<<<<<< HEAD
 // Some comment
 
+=======
+>>>>>>> 40fd661f659e87653741f1afe92d20370bd145e1
 Console.Clear();
 
 Console.Write("Введите значение X1: ");
