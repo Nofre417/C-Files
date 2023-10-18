@@ -1,0 +1,11 @@
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLib\bin\Debug\net6.0\MyLib.deps.json
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLib\bin\Debug\net6.0\MyLib.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLib\bin\Debug\net6.0\MyLib.pdb
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLib\obj\Debug\net6.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfo.cs
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLib\obj\Debug\net6.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLib\obj\Debug\net6.0\MyLib.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLib\obj\Debug\net6.0\refint\MyLib.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLib\obj\Debug\net6.0\MyLib.pdb
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLib\obj\Debug\net6.0\ref\MyLib.dll

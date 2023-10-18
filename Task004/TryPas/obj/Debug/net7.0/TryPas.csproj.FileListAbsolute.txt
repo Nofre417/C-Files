@@ -1,0 +1,14 @@
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task004\TryPas\obj\Debug\net7.0\TryPas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task004\TryPas\obj\Debug\net7.0\TryPas.AssemblyInfoInputs.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task004\TryPas\obj\Debug\net7.0\TryPas.AssemblyInfo.cs
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task004\TryPas\obj\Debug\net7.0\TryPas.csproj.CoreCompileInputs.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task004\TryPas\bin\Debug\net7.0\TryPas.exe
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task004\TryPas\bin\Debug\net7.0\TryPas.deps.json
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task004\TryPas\bin\Debug\net7.0\TryPas.runtimeconfig.json
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task004\TryPas\bin\Debug\net7.0\TryPas.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task004\TryPas\bin\Debug\net7.0\TryPas.pdb
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task004\TryPas\obj\Debug\net7.0\TryPas.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task004\TryPas\obj\Debug\net7.0\refint\TryPas.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task004\TryPas\obj\Debug\net7.0\TryPas.pdb
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task004\TryPas\obj\Debug\net7.0\TryPas.genruntimeconfig.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task004\TryPas\obj\Debug\net7.0\ref\TryPas.dll

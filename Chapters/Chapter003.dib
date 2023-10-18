@@ -1,0 +1,44 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"languageName":"csharp","name":"csharp"}]}}
+
+#!csharp
+
+string password = "ninjawr45222";
+
+#!csharp
+
+if(password.Length < 8)
+{
+    Console.WriteLine("Your password to short !");
+}
+else
+{
+    Console.WriteLine("Your password save !");
+}
+
+#!csharp
+
+int a = 5;
+int b = 6;
+
+int d = a++;
+Console.WriteLine(d);
+int c = ++b;
+Console.WriteLine(c);
+
+#!csharp
+
+for ( ; true; ) ;
+
+#!csharp
+
+long x = 345574523455;
+x = x << 1;
+Console.Write(x);
+
+#!csharp
+
+long x = 345574523455;
+x = x * 2;
+Console.Write(x);

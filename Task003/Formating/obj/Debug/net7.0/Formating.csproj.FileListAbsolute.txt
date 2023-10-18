@@ -1,0 +1,14 @@
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task003\Formating\obj\Debug\net7.0\Formating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task003\Formating\obj\Debug\net7.0\Formating.AssemblyInfoInputs.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task003\Formating\obj\Debug\net7.0\Formating.AssemblyInfo.cs
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task003\Formating\obj\Debug\net7.0\Formating.csproj.CoreCompileInputs.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task003\Formating\bin\Debug\net7.0\Formating.exe
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task003\Formating\bin\Debug\net7.0\Formating.deps.json
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task003\Formating\bin\Debug\net7.0\Formating.runtimeconfig.json
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task003\Formating\bin\Debug\net7.0\Formating.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task003\Formating\bin\Debug\net7.0\Formating.pdb
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task003\Formating\obj\Debug\net7.0\Formating.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task003\Formating\obj\Debug\net7.0\refint\Formating.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task003\Formating\obj\Debug\net7.0\Formating.pdb
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task003\Formating\obj\Debug\net7.0\Formating.genruntimeconfig.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task003\Formating\obj\Debug\net7.0\ref\Formating.dll

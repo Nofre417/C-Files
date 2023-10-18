@@ -1,0 +1,4 @@
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task009\Task009\obj\Debug\net6.0\Task009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task009\Task009\obj\Debug\net6.0\Task009.AssemblyInfoInputs.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task009\Task009\obj\Debug\net6.0\Task009.AssemblyInfo.cs
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task009\Task009\obj\Debug\net6.0\Task009.csproj.CoreCompileInputs.cache

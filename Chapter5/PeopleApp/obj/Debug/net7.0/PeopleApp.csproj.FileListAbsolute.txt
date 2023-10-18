@@ -1,0 +1,14 @@
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\PeopleApp\obj\Debug\net7.0\PeopleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\PeopleApp\obj\Debug\net7.0\PeopleApp.AssemblyInfoInputs.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\PeopleApp\obj\Debug\net7.0\PeopleApp.AssemblyInfo.cs
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\PeopleApp\obj\Debug\net7.0\PeopleApp.csproj.CoreCompileInputs.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\PeopleApp\bin\Debug\net7.0\PeopleApp.exe
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\PeopleApp\bin\Debug\net7.0\PeopleApp.deps.json
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\PeopleApp\bin\Debug\net7.0\PeopleApp.runtimeconfig.json
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\PeopleApp\bin\Debug\net7.0\PeopleApp.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\PeopleApp\bin\Debug\net7.0\PeopleApp.pdb
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\PeopleApp\obj\Debug\net7.0\PeopleApp.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\PeopleApp\obj\Debug\net7.0\refint\PeopleApp.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\PeopleApp\obj\Debug\net7.0\PeopleApp.pdb
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\PeopleApp\obj\Debug\net7.0\PeopleApp.genruntimeconfig.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\PeopleApp\obj\Debug\net7.0\ref\PeopleApp.dll

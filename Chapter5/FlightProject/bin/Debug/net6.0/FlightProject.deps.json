@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FlightProject/1.0.0": {
+        "dependencies": {
+          "MyLib": "1.0.0",
+          "MyLibModern": "1.0.0"
+        },
+        "runtime": {
+          "FlightProject.dll": {}
+        }
+      },
+      "MyLib/1.0.0": {
+        "runtime": {
+          "MyLib.dll": {}
+        }
+      },
+      "MyLibModern/1.0.0": {
+        "runtime": {
+          "MyLibModern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlightProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyLibModern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

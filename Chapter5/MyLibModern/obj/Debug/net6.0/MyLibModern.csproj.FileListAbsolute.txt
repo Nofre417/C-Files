@@ -1,0 +1,11 @@
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLibModern\bin\Debug\net6.0\MyLibModern.deps.json
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLibModern\bin\Debug\net6.0\MyLibModern.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLibModern\bin\Debug\net6.0\MyLibModern.pdb
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLibModern\obj\Debug\net6.0\MyLibModern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLibModern\obj\Debug\net6.0\MyLibModern.AssemblyInfoInputs.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLibModern\obj\Debug\net6.0\MyLibModern.AssemblyInfo.cs
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLibModern\obj\Debug\net6.0\MyLibModern.csproj.CoreCompileInputs.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLibModern\obj\Debug\net6.0\MyLibModern.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLibModern\obj\Debug\net6.0\refint\MyLibModern.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLibModern\obj\Debug\net6.0\MyLibModern.pdb
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Chapter5\MyLibModern\obj\Debug\net6.0\ref\MyLibModern.dll

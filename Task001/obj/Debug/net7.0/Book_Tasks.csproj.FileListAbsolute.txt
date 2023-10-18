@@ -1,0 +1,14 @@
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task001\obj\Debug\net7.0\Book_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task001\obj\Debug\net7.0\Book_Tasks.AssemblyInfoInputs.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task001\obj\Debug\net7.0\Book_Tasks.AssemblyInfo.cs
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task001\obj\Debug\net7.0\Book_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task001\bin\Debug\net7.0\Book_Tasks.exe
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task001\bin\Debug\net7.0\Book_Tasks.deps.json
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task001\bin\Debug\net7.0\Book_Tasks.runtimeconfig.json
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task001\bin\Debug\net7.0\Book_Tasks.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task001\bin\Debug\net7.0\Book_Tasks.pdb
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task001\obj\Debug\net7.0\Book_Tasks.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task001\obj\Debug\net7.0\refint\Book_Tasks.dll
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task001\obj\Debug\net7.0\Book_Tasks.pdb
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task001\obj\Debug\net7.0\Book_Tasks.genruntimeconfig.cache
+C:\Users\blalo\Desktop\C#Files\Book_Tasks\Task001\obj\Debug\net7.0\ref\Book_Tasks.dll
