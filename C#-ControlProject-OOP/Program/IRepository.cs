@@ -9,8 +9,7 @@ namespace Calculator
 {
     public interface IRepository
     {
-        void saveToFile(string line);
+        void saveToFile(List<string> list);
         void readFromFile();
-        void clearAllFile();
     }
 }

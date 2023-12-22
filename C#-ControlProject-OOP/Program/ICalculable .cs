@@ -1,6 +1,4 @@
-﻿
-
-namespace Calculator
+﻿namespace Calculator
 {
     public interface ICalculable
     {
@@ -9,5 +7,9 @@ namespace Calculator
         ICalculable divide(int arg);
 
         int getResult();
+
+        void saveToList(int arg);
+
+        void printLogFile();
     }
 }

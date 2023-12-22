@@ -7,7 +7,7 @@ namespace Calculator
         public void saveLog(string log)
         {
             ForegroundColor =  ConsoleColor.Red;
-            WriteLine($"Log list: {log}");
+            WriteLine($"* Log list: {log}".Replace("=", ""));
             ForegroundColor = ConsoleColor.White;
         }
     }

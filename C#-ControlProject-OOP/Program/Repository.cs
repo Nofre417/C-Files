@@ -5,41 +5,64 @@ using static System.Environment;
 
 namespace Calculator
 {
-    public class Repository : IRepository
+    public class Repository : IRepository, IRepositoryService
     {
-        public Repository() { }
 
         string path = Combine(CurrentDirectory, "CalculatorLog.txt");
+
         public void createLogFile()
         {
-            using(StreamWriter writer = new StreamWriter(path, true)) { }
+            using(StreamWriter writer = new StreamWriter(path, false)) { }
         }
 
         
 
         public void readFromFile()
         {
-            using (StreamReader reader = new StreamReader(path))
+            if (!File.Exists(path)) createLogFile();
+
+            using (StreamReader reader = File.OpenText(path))
             {
                 ForegroundColor = ConsoleColor.DarkGray;
-                Write("Log list:\n");
-                string line = reader.ReadLine();
+                int operations = 3;
+                Write($"\n* Last {operations} operations:\n");
+
+                string[] allLines = File.ReadAllLines(path);
+                string[] lastOperations = allLines.Skip(allLines.Length  - (operations * 2)).ToArray();
+
+                foreach (string line in lastOperations)
+                {
+                    WriteLine("\t" + line);
+                }
                 ForegroundColor = ConsoleColor.White;
             }
         }
 
-        public void saveToFile(string line)
+        public void saveToFile(List<string> items)
         {
+            if (!File.Exists(path)) createLogFile();
+
+            clearAllFileText();
+
             using (StreamWriter writer = new StreamWriter(path, true))
             {
-                writer.WriteLine(line);
+                writer.Write("Operation: ");
+                foreach (string item in items)
+                {
+                    writer.Write(item);
+                }
+                writer.WriteLine("\nTime: " + DateTime.Now);
             }
-            
         }
 
-        public void clearAllFile()
+        public void clearAllFileText()
         {
-            using (StreamWriter writer = new StreamWriter(path, true)) { }
+            if (File.Exists(path))
+            {
+                string[] lines = File.ReadAllLines(path);
+                int linesAmount = lines.Length / 2;
+                if (linesAmount >= 10) createLogFile();
+            }
         }
     }
 }

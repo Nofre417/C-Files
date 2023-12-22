@@ -1,14 +1,11 @@
-﻿using System.Collections.Generic;
-using System.Data;
-using System.Diagnostics.Metrics;
-using System.Runtime.CompilerServices;
-using static System.Console;
+﻿using static System.Console;
 
 namespace Calculator
 {
     public class ViewCalculator
     {
         private ICalculableFactory calculableFactory;
+        Validator validator = new();
 
         public ViewCalculator(ICalculableFactory calculableFactory)
         {
@@ -19,11 +16,12 @@ namespace Calculator
         {
             while (true)
             {
+                PaintConsole(reset: true);
                 int primaryArg = inputInt("Enter argument: ");
                 ICalculable calculator = calculableFactory.create(primaryArg, true);
                 while (true)
                 {
-                    string command = input("Choose sign (*, +, /, =) : ");
+                    string command = input("Choose sign (*, +, /, =): ");
                     if (command == "*")
                     {
                         int arg = inputInt("Enter argument: ");
@@ -45,33 +43,80 @@ namespace Calculator
                     if (command == "=")
                     {
                         int result = calculator.getResult();
-                        ForegroundColor = ConsoleColor.Yellow;
+                        calculator.saveToList(result);
+                        calculator.printLogFile();
+                        PaintConsole(ConsoleColor.Yellow);
+                        WriteLine("\n=========================\n");
                         WriteLine("\u001b[1mRESULT: " + result);
-                        ForegroundColor = ConsoleColor.White;
+                        PaintConsole(reset: true);
                         break;
                     }
                 }
-                ForegroundColor = ConsoleColor.Cyan;
-                string cmd = input("Calculate more (Y/N)? ");
-                ForegroundColor = ConsoleColor.White;
+                PaintConsole(ConsoleColor.Cyan);
+                string cmd = input("\nCalculate more (Y/N)? ", check: false);
+                PaintConsole(reset: true);
                 if (cmd.ToUpper() == "Y")
                 {
+                    Clear();
                     continue;
                 }
-                break;
+                break;              
             }
         }
 
-        private string input(string message)
+        private string input(string message, bool check = true)
         {
             Write(message);
-            return ReadLine();
+            string inputLine = ReadLine();
+            string sing = "";
+
+            if (!check) return inputLine;
+
+            if (validator.isValidSing(inputLine))
+            {
+                sing = inputLine;
+            }
+            else
+            {
+                PaintConsole(ConsoleColor.Red);
+                WriteLine($"Input is not correct !");
+                PaintConsole(reset: true);
+            }
+            return sing;
         }
+            
+        
 
         private int inputInt(string message)
         {
             Write(message);
-            return int.Parse(ReadLine());
+            string inputLine = ReadLine();
+            int number = 0;
+
+            if (validator.isValidNumber(inputLine))
+            {
+                number = int.Parse(inputLine);
+            }
+            else
+            {
+                PaintConsole(ConsoleColor.Red);
+                WriteLine($"Input is not correct !");
+                PaintConsole(reset: true);
+            }
+            return number;
+        }
+
+        private void PaintConsole(ConsoleColor color = ConsoleColor.White)
+        {
+            ForegroundColor = color;
+        }
+
+        private void PaintConsole(bool reset)
+        {
+            if (reset)
+            {
+                ForegroundColor = ConsoleColor.White;
+            }
         }
     }
 }
